@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "my-mcp-server-e054ec91": {
+            "type": "stdio",
+            "command": "node",
+            "args": [
+                "/Users/juha/git/my-mcp/weather/build/index.js"
+            ]
+        }
+    }
+}
